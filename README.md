@@ -1,7 +1,7 @@
 # Create-AI-powered-apps-with-open-source-LangChain
 
 ## Author:
-### ** @ Sina Nazeri
+### @ Sina Nazeri
 
 ## Mentee assignment from IBM Advance AI @ Infinite Learning Course completation. In this guided project, I create an AI powered apps with open source LangChain
 
